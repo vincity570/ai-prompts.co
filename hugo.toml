@@ -9,6 +9,9 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   defaultTheme = "light"
+  ShowBrandLogo = true
+  logo = "logo.png"
+
 
 [menu]
   [[menu.main]]
