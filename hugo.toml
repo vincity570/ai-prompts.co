@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://ai-prompts.co/'
 languageCode = 'en-us'
 title = 'AI Prompts'
 theme = 'PaperMod'
@@ -9,8 +9,6 @@ theme = 'PaperMod'
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   defaultTheme = "light"
-
-
 
 [menu]
   [[menu.main]]
