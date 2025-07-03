@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Prompts</title>
-    <link>https://ai-prompts.co/</link>
-    <description>Recent content on AI Prompts</description>
+    <title>Action Figures on AI Prompts</title>
+    <link>https://ai-prompts.co/tags/action-figures/</link>
+    <description>Recent content in Action Figures on AI Prompts</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ai-prompts.co/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI Prompts for a Cover Letter</title>
-      <link>https://ai-prompts.co/posts/ai-prompts-for-a-cover-letter/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ai-prompts.co/posts/ai-prompts-for-a-cover-letter/</guid>
-      <description>Boost your job applications with effective AI-generated cover letter prompts tailored to your industry and role.</description>
-    </item>
-    <item>
-      <title>AI Prompts for Academic Writing</title>
-      <link>https://ai-prompts.co/posts/ai-prompts-for-academic-writing/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ai-prompts.co/posts/ai-prompts-for-academic-writing/</guid>
-      <description>Learn how to use AI prompts to improve your academic writing, from thesis development to citation help.</description>
-    </item>
+    <atom:link href="https://ai-prompts.co/tags/action-figures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Prompts for Action Figures</title>
       <link>https://ai-prompts.co/posts/ai-prompts-for-action-figure/</link>
@@ -38,13 +24,6 @@
 &lt;h2 id=&#34;types-of-ai-prompts-for-action-figures&#34;&gt;Types of AI Prompts for Action Figures&lt;/h2&gt;
 &lt;h3 id=&#34;character-concept-prompts&#34;&gt;Character Concept Prompts&lt;/h3&gt;
 &lt;p&gt;Create visually rich characters with specific traits.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI Prompts for Article Writing</title>
-      <link>https://ai-prompts.co/posts/ai-prompts-for-article-writing/</link>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ai-prompts.co/posts/ai-prompts-for-article-writing/</guid>
-      <description>Discover effective AI prompts for article writing that improve your creativity, structure, and productivity. Ideal for bloggers, journalists, and content creators.</description>
     </item>
   </channel>
 </rss>
