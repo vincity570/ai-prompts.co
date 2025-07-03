@@ -2,27 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/tags/academic-writing/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chatgpt/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/tags/ai-prompts/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/prompts/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-academic-writing/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/seo/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/posts/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/seo-prompts/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/tags/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <loc>https://ai-prompts.co/tags/writing-tools/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-a-cover-letter/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-accounting/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-action-figure/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-advertising/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-app-development/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-art/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-article-writing/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-astrology/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-business-plan/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/posts/ai-prompts-for-business/</loc>
+  </url><url>
+    <loc>https://ai-prompts.co/categories/</loc>
   </url>
 </urlset>
