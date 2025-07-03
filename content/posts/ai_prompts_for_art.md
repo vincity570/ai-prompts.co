@@ -1,11 +1,4 @@
----
-title: "AI Prompts for Art: The Complete Guide to Creating Stunning Digital Artwork"
-date: 2025-07-03
-description: "Master the art of AI prompts to generate beautiful, professional-quality digital artwork using tools like DALL·E, Midjourney, and Stable Diffusion."
-tags: ["ai prompts", "ai art", "digital art", "midjourney", "prompt engineering"]
-categories: ["AI Prompts"]
-slug: "ai-prompts-for-art"
----
+# AI Prompts for Art: The Complete Guide to Creating Stunning Digital Artwork
 
 AI art generation has revolutionized how artists and creators approach digital artwork. Whether you're using DALL-E, Midjourney, Stable Diffusion, or other AI art tools, the quality of your prompts directly impacts your results. This comprehensive guide will teach you how to craft effective AI prompts for art that produce professional-quality images.
 
